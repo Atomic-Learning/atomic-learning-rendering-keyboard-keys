@@ -1,22 +1,16 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: Rendering Keyboard Keys",
+    "slug": "atomic-learning-rendering-keyboard-keys",
+    "description": "How to cause keyboard keys to render in pages on the Atomic Learning platform.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-content-file"
     ],
     "related": [
-        "",
-        ""
     ]
 }
